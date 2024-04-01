@@ -14,8 +14,7 @@ registro, inicio de sesión, cierre de sesión y grabación de partidas.
 - Desplegar una versión inicial de la aplicación funcional en 4 meses.
 - Atraer al menos 1000 usuarios activos mensuales en los primeros 6 meses después
  del lanzamiento.
-- Mantener una calificación promedio de usuario de al menos 4 estrellas en las 
-tiendas de aplicaciones o valoración en línea.
+- Mantener una calificación promedio de usuario de valoración en línea.
 
 ## Partes Interesadas:
 - Equipo de Desarrollo de Software
