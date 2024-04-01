@@ -19,9 +19,11 @@ del sistema.
 - Mantener una calificación promedio de usuario de al menos 4 estrellas en las 
 tiendas de aplicaciones o valoración en línea.
 
-
-
-
+## Partes Interesadas:
+- Equipo de Desarrollo de Software
+- Usuarios Finales del Juego de Damas Americanas
+- Expertos en Juegos de Mesa
+- Potenciales Inversores o Patrocinadores
 
 
 
