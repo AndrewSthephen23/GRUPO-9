@@ -1,0 +1,251 @@
+03-Apr-2024 05:32:55.718 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.20
+03-Apr-2024 05:32:55.721 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 19 2024 12:49:58 UTC
+03-Apr-2024 05:32:55.721 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.20.0
+03-Apr-2024 05:32:55.721 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+03-Apr-2024 05:32:55.721 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1.0-1parrot1-amd64
+03-Apr-2024 05:32:55.721 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+03-Apr-2024 05:32:55.721 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/apache-netbeans/jdk
+03-Apr-2024 05:32:55.721 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS
+03-Apr-2024 05:32:55.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Azul Systems, Inc.
+03-Apr-2024 05:32:55.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20
+03-Apr-2024 05:32:55.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20
+03-Apr-2024 05:32:55.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/conf/logging.properties
+03-Apr-2024 05:32:55.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Apr-2024 05:32:55.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|parrot
+03-Apr-2024 05:32:55.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+03-Apr-2024 05:32:55.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+03-Apr-2024 05:32:55.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+03-Apr-2024 05:32:55.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+03-Apr-2024 05:32:55.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+03-Apr-2024 05:32:55.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+03-Apr-2024 05:32:55.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+03-Apr-2024 05:32:55.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+03-Apr-2024 05:32:55.730 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20
+03-Apr-2024 05:32:55.730 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20
+03-Apr-2024 05:32:55.730 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/temp
+03-Apr-2024 05:32:55.731 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+03-Apr-2024 05:32:55.959 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+03-Apr-2024 05:32:55.975 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [379] milliseconds
+03-Apr-2024 05:32:56.014 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+03-Apr-2024 05:32:56.015 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.20]
+03-Apr-2024 05:32:56.022 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/webapps/ROOT]
+03-Apr-2024 05:32:56.238 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/webapps/ROOT] has finished in [216] ms
+03-Apr-2024 05:32:56.238 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/webapps/docs]
+03-Apr-2024 05:32:56.262 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/webapps/docs] has finished in [24] ms
+03-Apr-2024 05:32:56.262 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/webapps/examples]
+03-Apr-2024 05:32:56.438 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/webapps/examples] has finished in [176] ms
+03-Apr-2024 05:32:56.438 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/webapps/host-manager]
+03-Apr-2024 05:32:56.465 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/webapps/host-manager] has finished in [26] ms
+03-Apr-2024 05:32:56.465 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/webapps/manager]
+03-Apr-2024 05:32:56.482 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/webapps/manager] has finished in [17] ms
+03-Apr-2024 05:32:56.486 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+03-Apr-2024 05:32:56.494 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [517] milliseconds
+03-Apr-2024 05:33:01.249 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/conf/Catalina/localhost/block.xml]
+03-Apr-2024 05:33:01.250 WARNING [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/block] in deployment descriptor [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/conf/Catalina/localhost/block.xml] has been ignored
+03-Apr-2024 05:33:01.276 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/conf/Catalina/localhost/block.xml] has finished in [27] ms
+03-Apr-2024 05:33:01.282 INFO [http-nio-8080-exec-9] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/block]] after start() had already been called. The second call will be ignored.
+03-Apr-2024 05:37:27.048 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/block]
+03-Apr-2024 05:37:27.066 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/conf/Catalina/localhost/block.xml]
+03-Apr-2024 05:37:27.067 WARNING [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/block] in deployment descriptor [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/conf/Catalina/localhost/block.xml] has been ignored
+03-Apr-2024 05:37:27.072 SEVERE [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/conf/Catalina/localhost/block.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:686)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:658)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:712)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:635)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1889)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:530)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:421)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1678)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:114)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1098)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1301)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1305)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1283)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@2896d10d]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:419)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:186)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4565)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4698)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:683)
+		... 24 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Proyecto/Game/block/target/block-1.0-SNAPSHOT] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:707)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		... 28 more
+03-Apr-2024 05:37:27.074 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/conf/Catalina/localhost/block.xml] has finished in [8] ms
+03-Apr-2024 05:37:37.075 INFO [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO%20DE%20SOFTWARE/Servidor/apache-tomcat-10.1.20/conf/tomcat-users.xml]
+03-Apr-2024 05:37:37.075 SEVERE [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.open The specified user database [conf/tomcat-users.xml] could not be found
+03-Apr-2024 05:37:37.576 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context []
+03-Apr-2024 05:37:37.578 WARNING [Catalina-utility-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc JDBC driver de-registration failed for web application [ROOT]
+	java.lang.NullPointerException: Cannot invoke "java.io.InputStream.read(byte[], int, int)" because "is" is null
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:1655)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1599)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1537)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:406)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:242)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5160)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:242)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:766)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1483)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1412)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1665)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:114)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1098)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1301)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1305)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1283)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+03-Apr-2024 05:37:38.083 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/examples]
+03-Apr-2024 05:37:38.087 WARNING [Catalina-utility-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc JDBC driver de-registration failed for web application [examples]
+	java.lang.IllegalStateException: java.nio.file.NoSuchFileException: /home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/webapps/examples/WEB-INF/lib/taglibs-standard-impl-1.2.5-migrated-0.0.1.jar
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:100)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.getResource(AbstractArchiveResourceSet.java:249)
+		at org.apache.catalina.webresources.StandardRoot.getResourceInternal(StandardRoot.java:272)
+		at org.apache.catalina.webresources.Cache.getResource(Cache.java:64)
+		at org.apache.catalina.webresources.StandardRoot.getResource(StandardRoot.java:211)
+		at org.apache.catalina.webresources.StandardRoot.getClassLoaderResource(StandardRoot.java:220)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1077)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:1654)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1599)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1537)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:406)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:242)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5160)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:242)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:766)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1483)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1412)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1665)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:114)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1098)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1301)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1305)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1283)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+	Caused by: java.nio.file.NoSuchFileException: /home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/Servidor/apache-tomcat-10.1.20/webapps/examples/WEB-INF/lib/taglibs-standard-impl-1.2.5-migrated-0.0.1.jar
+		at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+		at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+		at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+		at java.base/sun.nio.fs.UnixFileAttributeViews$Basic.readAttributes(UnixFileAttributeViews.java:55)
+		at java.base/sun.nio.fs.UnixFileSystemProvider.readAttributes(UnixFileSystemProvider.java:171)
+		at java.base/sun.nio.fs.LinuxFileSystemProvider.readAttributes(LinuxFileSystemProvider.java:99)
+		at java.base/java.nio.file.Files.readAttributes(Files.java:1853)
+		at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1445)
+		at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+		at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.openJarFile(AbstractArchiveResourceSet.java:299)
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:96)
+		... 30 more
+03-Apr-2024 05:37:38.594 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/block]
+03-Apr-2024 05:37:39.097 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/host-manager]
+03-Apr-2024 05:37:39.098 WARNING [Catalina-utility-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc JDBC driver de-registration failed for web application [host-manager]
+	java.lang.NullPointerException: Cannot invoke "java.io.InputStream.read(byte[], int, int)" because "is" is null
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:1655)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1599)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1537)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:406)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:242)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5160)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:242)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:766)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1483)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1412)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1665)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:114)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1098)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1301)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1305)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1283)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+03-Apr-2024 05:37:39.604 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/manager]
+03-Apr-2024 05:37:39.607 WARNING [Catalina-utility-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc JDBC driver de-registration failed for web application [manager]
+	java.lang.NullPointerException: Cannot invoke "java.io.InputStream.read(byte[], int, int)" because "is" is null
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:1655)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1599)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1537)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:406)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:242)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5160)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:242)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:766)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1483)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1412)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1665)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:114)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1098)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1301)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1305)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1283)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+03-Apr-2024 05:37:40.113 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/docs]
+03-Apr-2024 05:37:40.115 WARNING [Catalina-utility-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc JDBC driver de-registration failed for web application [docs]
+	java.lang.NullPointerException: Cannot invoke "java.io.InputStream.read(byte[], int, int)" because "is" is null
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:1655)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1599)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1537)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:406)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:242)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5160)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:242)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:766)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1483)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1412)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1665)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:114)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1098)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1301)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1305)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1283)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1583)

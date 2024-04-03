@@ -1,0 +1,16 @@
+127.0.0.1 - - [03/Apr/2024:05:32:56 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2024:05:32:57 -0500] "GET /manager/text/ HTTP/1.1" 401 2562
+127.0.0.1 - admin [03/Apr/2024:05:33:01 -0500] "GET /manager/text/ HTTP/1.1" 200 38
+127.0.0.1 - - [03/Apr/2024:05:33:01 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - admin [03/Apr/2024:05:33:01 -0500] "GET /manager/text/ HTTP/1.1" 200 38
+127.0.0.1 - - [03/Apr/2024:05:33:01 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - admin [03/Apr/2024:05:33:01 -0500] "GET /manager/text/ HTTP/1.1" 200 38
+127.0.0.1 - - [03/Apr/2024:05:33:01 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - admin [03/Apr/2024:05:33:01 -0500] "GET /manager/text/ HTTP/1.1" 200 38
+127.0.0.1 - admin [03/Apr/2024:05:33:01 -0500] "GET /manager/text/list HTTP/1.1" 200 196
+127.0.0.1 - admin [03/Apr/2024:05:33:01 -0500] "GET /manager/text/list HTTP/1.1" 200 196
+127.0.0.1 - admin [03/Apr/2024:05:33:01 -0500] "GET /manager/text/deploy?config=file%3A%2Ftmp%2Fcontext5330602883315379413.xml&path=/block HTTP/1.1" 200 62
+127.0.0.1 - admin [03/Apr/2024:05:33:01 -0500] "GET /manager/text/start?path=/block HTTP/1.1" 200 61
+0:0:0:0:0:0:0:1 - - [03/Apr/2024:05:33:01 -0500] "GET /block HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [03/Apr/2024:05:33:01 -0500] "GET /block/ HTTP/1.1" 200 218
+0:0:0:0:0:0:0:1 - - [03/Apr/2024:05:33:01 -0500] "GET /favicon.ico HTTP/1.1" 200 21630
