@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.ClientTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-03-25T18:38:34" hostname="DESKTOP-AURCIQN" time="0.028">
+  <properties/>
+  <testcase name="shouldAllowToAddAddress()" classname="org.example.ClientTest" time="0.024"/>
+  <testcase name="shouldAllowToAddManyAddresses()" classname="org.example.ClientTest" time="0.0"/>
+  <testcase name="afterCreationShouldHaveNoAddress()" classname="org.example.ClientTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
