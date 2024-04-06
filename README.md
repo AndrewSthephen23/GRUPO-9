@@ -18,112 +18,6 @@
     <li>Sitio de alojamiento del proyecto: https://github.com/AndrewSthephen23/GRUPO-9.git</li>
     <li>Horario habitual de reunión: 10:00 p.m.</li>
 </ul>
-<h2>Acta de reunion:</h2>
-<table border="3" cellpadding="10">
-    <tr>
-        <th> Fecha </th>
-        <th> Tiempo y <br> duracion </th>
-        <th> Lugar </th>
-        <th>Nombres de los participantes</th>
-        <th>Proposito de la reunion</th>
-        <th>Elementos de accion especificos</th>
-    </tr>
-    <tr>
-        <td style="text-align: center;">23/03/2024</td>
-        <td style="text-align: center;">2 horas</td>
-        <td> Reunion virtual por Discord</td>
-        <td>
-            <ul>
-                <li>Choquechambi</li>
-                <li>Frank</li>
-                <li>Trujillo Armas Andrei Steven</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>Investigar acerca del juego de las damas americanas</li>
-                <li>Definir las tecnologias y metodologias que utiliza para el proyecto</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>Definir roles y responsabilidades</li>
-                <li>Establer un sistema de comunicacion</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>25/03/2024</td>
-        <td>15 min</td>
-        <td>Reunion virtual por Discord</td>
-        <td>
-            <ul>
-                <li>Choquechambi</li>
-                <li>Frank</li>
-                <li>Trujillo Armas Andrei Steven</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>Determinar los requerimientos y especificaciones</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>Modificar el estado actual</li>
-                <li>Utilizar la técnica GWT para definir las especificaciones y requerimientos del software</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>26/03/2024</td>
-        <td>15 min</td>
-        <td>Reunion presencial en la Facultad de Ciencias</td>
-        <td>
-            <ul>
-                <li>Choquechambi</li>
-                <li>Frank</li>
-                <li>Trujillo Armas Andrei Steven</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>Determina el flujo de ejecución que tendrá el software</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>Designar las tareas para realizar el flujo de ejecución del software</li>
-                <li>Crear un mirror compartido</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>28/03/2024</td>
-        <td>15 min</td>
-        <td>Reunion virtual por Discord</td>
-        <td>
-            <ul>
-                <li>Choquechambi</li>
-                <li>Frank</li>
-                <li>Trujillo Armas Andrei Steven</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>Definir la arquitectura del software</li>
-                <li>Terminar el flujo de ejecución del software</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>Utilizar los requerimientos y especificaciones</li>
-                <li>Comparar diversos tipos de arquitecturas</li>
-                <li>Establecer la arquitectura a usar de cliente-servidor de 3 capas</li>
-            </ul>
-        </td>
-    </tr>
-</table>
 <h2>Estado Actual: </h2>
 <table border="3" cellpadding="10">
     <tr>
@@ -270,6 +164,113 @@
         <td style="text-align: center;">Codificación</td>
         <td> </td>
         <td> </td>
+    </tr>
+</table>
+
+<h2>Acta de reunion:</h2>
+<table border="3" cellpadding="10">
+    <tr>
+        <th> Fecha </th>
+        <th> Tiempo y <br> duracion </th>
+        <th> Lugar </th>
+        <th>Nombres de los participantes</th>
+        <th>Proposito de la reunion</th>
+        <th>Elementos de accion especificos</th>
+    </tr>
+    <tr>
+        <td style="text-align: center;">23/03/2024</td>
+        <td style="text-align: center;">2 horas</td>
+        <td> Reunion virtual por Discord</td>
+        <td>
+            <ul>
+                <li>Choquechambi</li>
+                <li>Frank</li>
+                <li>Trujillo Armas Andrei Steven</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Investigar acerca del juego de las damas americanas</li>
+                <li>Definir las tecnologias y metodologias que utiliza para el proyecto</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Definir roles y responsabilidades</li>
+                <li>Establer un sistema de comunicacion</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>25/03/2024</td>
+        <td>15 min</td>
+        <td>Reunion virtual por Discord</td>
+        <td>
+            <ul>
+                <li>Choquechambi</li>
+                <li>Frank</li>
+                <li>Trujillo Armas Andrei Steven</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Determinar los requerimientos y especificaciones</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Modificar el estado actual</li>
+                <li>Utilizar la técnica GWT para definir las especificaciones y requerimientos del software</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>26/03/2024</td>
+        <td>15 min</td>
+        <td>Reunion presencial en la Facultad de Ciencias</td>
+        <td>
+            <ul>
+                <li>Choquechambi</li>
+                <li>Frank</li>
+                <li>Trujillo Armas Andrei Steven</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Determina el flujo de ejecución que tendrá el software</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Designar las tareas para realizar el flujo de ejecución del software</li>
+                <li>Crear un mirror compartido</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>28/03/2024</td>
+        <td>15 min</td>
+        <td>Reunion virtual por Discord</td>
+        <td>
+            <ul>
+                <li>Choquechambi</li>
+                <li>Frank</li>
+                <li>Trujillo Armas Andrei Steven</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Definir la arquitectura del software</li>
+                <li>Terminar el flujo de ejecución del software</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Utilizar los requerimientos y especificaciones</li>
+                <li>Comparar diversos tipos de arquitecturas</li>
+                <li>Establecer la arquitectura a usar de cliente-servidor de 3 capas</li>
+            </ul>
+        </td>
     </tr>
 </table>
 <h2>Calificacion de amigos:</h2>
