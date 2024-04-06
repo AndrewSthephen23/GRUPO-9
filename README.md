@@ -10,6 +10,14 @@
     <li>Frank</li>
     <li>Trujillo Armas Andrei Steven</li>
 </ul>
+<h2>Decisiones Clave:</h2>
+<ul>
+    <li>Lenguaje de programación: Java</li>
+    <li>Guía de estilo de programación: Guia de Estilo Google Java</li>
+    <li>IDE: Apache Netbeans</li>
+    <li>Sitio de alojamiento del proyecto: https://github.com/AndrewSthephen23/GRUPO-9.git</li>
+    <li>Horario habitual de reunión: 10:00 p.m.</li>
+</ul>
 <h2>Acta de reunion:</h2>
 <table border="3" cellpadding="10">
     <tr>
@@ -116,14 +124,6 @@
         </td>
     </tr>
 </table>
-<h3>Decisiones Clave:</h3>
-<ul>
-    <li>Lenguaje de programación: Java</li>
-    <li>Guía de estilo de programación: </li>
-    <li>IDE: Apache Netbeans</li>
-    <li>Sitio de alojamiento del proyecto: GitHub</li>
-    <li>Horario habitual de reunión: 7:00 p.m.</li>
-</ul>
 <h2>Estado Actual: </h2>
 <table border="3" cellpadding="10">
     <tr>
