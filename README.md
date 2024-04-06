@@ -6,7 +6,7 @@
 <h2>Nombre del equipo: Choque Check</h2>
 <h2>Miembros del equipo:</h2>
 <ul>
-    <li>Choquechambi</li>
+    <li>Choquechambi Quispe Germain Ronald</li>
     <li>Frank</li>
     <li>Trujillo Armas Andrei Steven</li>
 </ul>
