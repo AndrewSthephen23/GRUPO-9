@@ -338,8 +338,8 @@
             </td>
         </tr>
         <tr>
-            <td>28/03/2024</td>
-            <td>15 min</td>
+            <td>06/04/2024</td>
+            <td>3 horas</td>
             <td>Reunion virtual por Discord</td>
             <td>
                 <ul>
@@ -352,6 +352,7 @@
                 <ul>
                     <li>Definir la arquitectura del software</li>
                     <li>Terminar el flujo de ejecución del software</li>
+                    <li>Implementar las historias de usuario con los criterios de aceptacion</li>
                 </ul>
             </td>
             <td>
