@@ -30,7 +30,7 @@
         <td>Como nuevo usuario, necesito crear una cuenta para poder iniciar sesión</td>
         <td>
             <ul>
-                <li>Choquechambi</li>
+                <li>Choquechambi Quispe Germain Ronald</li>
                 <li>Frank</li>
                 <li>Trujillo Armas Andrei Steven</li>
             </ul>
@@ -47,7 +47,7 @@
         </td>
         <td>
             <ul>
-                <li>Choquechambi</li>
+                <li>Choquechambi Quispe Germain Ronald</li>
                 <li>Frank</li>
                 <li>Trujillo Armas Andrei Steven</li>
             </ul>
@@ -72,7 +72,7 @@
         <td>Como usuario necesito iniciar sesión para poder jugar</td>
         <td>
             <ul>
-                <li>Choquechambi</li>
+                <li>Choquechambi Quispe Germain Ronald</li>
                 <li>Frank</li>
                 <li>Trujillo Armas Andrei Steven</li>
             </ul>
@@ -107,7 +107,7 @@
         <td>Como usuario deseo cerrar sesión del juego</td>
         <td>
             <ul>
-                <li>Choquechambi</li>
+                <li>Choquechambi Quispe Germain Ronald</li>
                 <li>Frank</li>
                 <li>Trujillo Armas Andrei Steven</li>
             </ul>
@@ -138,7 +138,7 @@
         <td>Como jugador necesito seleccionar un tablero de damas para jugar</td>
         <td>
             <ul>
-                <li>Choquechambi</li>
+                <li>Choquechambi Quispe Germain Ronald</li>
                 <li>Frank</li>
                 <li>Trujillo Armas Andrei Steven</li>
             </ul>
@@ -154,7 +154,7 @@
         </td>
         <td>
             <ul>
-                <li>Choquechambi</li>
+                <li>Choquechambi Quispe Germain Ronald</li>
                 <li>Frank</li>
                 <li>Trujillo Armas Andrei Steven</li>
             </ul>
@@ -183,7 +183,7 @@
         <td> Reunion virtual por Discord</td>
         <td>
             <ul>
-                <li>Choquechambi</li>
+                <li>Choquechambi Quispe Germain Ronald</li>
                 <li>Frank</li>
                 <li>Trujillo Armas Andrei Steven</li>
             </ul>
@@ -207,7 +207,7 @@
         <td>Reunion virtual por Discord</td>
         <td>
             <ul>
-                <li>Choquechambi</li>
+                <li>Choquechambi Quispe Germain Ronald</li>
                 <li>Frank</li>
                 <li>Trujillo Armas Andrei Steven</li>
             </ul>
@@ -230,7 +230,7 @@
         <td>Reunion presencial en la Facultad de Ciencias</td>
         <td>
             <ul>
-                <li>Choquechambi</li>
+                <li>Choquechambi Quispe Germain Ronald</li>
                 <li>Frank</li>
                 <li>Trujillo Armas Andrei Steven</li>
             </ul>
@@ -253,7 +253,7 @@
         <td>Reunion virtual por Discord</td>
         <td>
             <ul>
-                <li>Choquechambi</li>
+                <li>Choquechambi Quispe Germain Ronald</li>
                 <li>Frank</li>
                 <li>Trujillo Armas Andrei Steven</li>
             </ul>
@@ -277,7 +277,7 @@
 <table border="3" cellpadding="10">
     <tr>
         <th> </th>
-        <th>Germain <br> Choquechambi</th>
+        <th>Germain Ronald <br> Choquechambi Quispe</th>
         <th>Frank <br> oliver</th>
         <th>Andrei Steven <br>Trujillo Armas</th>
     </tr>
