@@ -75,18 +75,18 @@
         <tr>
             <th>ID y nombre de la historia de usuario</th>
             <th>AC-ID</th>
-            <th>Descripcion del criterio de aceptación</th>
-            <th>Estado (Completado, pendiente, en progreso)</th>
+            <th>Descripción del criterio de aceptación</th>
+            <th>Estado</th>
         </tr>
         <tr>
-            <td rowspan="3", style="text-align: center;">1.Crear Cuenta</td>
+            <td rowspan="3">1. Crear Cuenta</td>
             <td>1.1</td>
-            <td>Creación exitosa de una cuenta de usuario valida </td>
-            <td>Por hacer</td>    
+            <td>Creación exitosa de una cuenta de usuario valida</td>
+            <td>Por hacer</td>
         </tr>
         <tr>
             <td>1.2</td>
-            <td>Creación de cuenta fallida por un nombre de usuario existente</td>
+            <td>SCreación de cuenta fallida por un nombre de usuario existente</td>
             <td>Por hacer</td>
         </tr>
         <tr>
@@ -95,19 +95,41 @@
             <td>Por hacer</td>
         </tr>
         <tr>
-            <td rowspan="4" "text-align: center;">2. Iniciar Sesion </td>
+            <td rowspan="3">2. Iniciar Sesión</td>
             <td>2.1</td>
-            <td>Inicio de Sesion exitoso validando correctamente su nombre de usuario y contraseña</td>
+            <td>El usuario puede iniciar sesión correctamente con su nombre de usuario y contraseña</td>
             <td>Por hacer</td>
         </tr>
         <tr>
             <td>2.2</td>
-            <td>Inicio de Sesion fallido no se encontro un usuario con ese nombre </td>
+            <td>Se muestra un mensaje de espera si el inicio de sesión tarda más de 5 segundos</td>
             <td>Por hacer</td>
         </tr>
         <tr>
             <td>2.3</td>
-            <td>Inicio de Sesion fallido la contraseña no es correcta</td>
+            <td>El usuario puede restablecer su contraseña mediante un enlace de "olvidé mi contraseña" proporcionado en la pantalla de inicio de sesión</td>
+            <td>Por hacer</td>
+        </tr>
+        <tr>
+            <td rowspan="2">3. Cerrar Sesión</td>
+            <td>3.1</td>
+            <td>El usuario puede cerrar sesión desde cualquier pantalla, redirigiéndolo a la pantalla de inicio de sesión</td>
+            <td>Por hacer</td>
+        </tr>
+        <tr>
+            <td>3.2</td>
+            <td>Se muestra un mensaje de confirmación antes de cerrar sesión</td>
+            <td>Por hacer</td>
+        </tr>
+        <tr>
+            <td rowspan="2">4. Escoger Rival</td>
+            <td>4.1</td>
+            <td>El usuario puede seleccionar un oponente de una lista de rivales disponibles</td>
+            <td>Por hacer</td>
+        </tr>
+        <tr>
+            <td>4.2</td>
+            <td>Cada rival en la lista muestra información relevante, como su nombre de usuario o nivel de habilidad</td>
             <td>Por hacer</td>
         </tr>
     </table>
