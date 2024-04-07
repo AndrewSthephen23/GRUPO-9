@@ -144,98 +144,94 @@
             <th>Elementos de accion especificos</th>
         </tr>
         <tr>
-            <td style="text-align: center;">23/03/2024</td>
-            <td style="text-align: center;">2 horas</td>
-            <td> Reunion virtual por Discord</td>
+            <td style="text-align: center;">27/03/2024</td>
+            <td style="text-align: center;">1 hora</td>
+            <td> Reunion presencial en la Facultad de Ciencias </td>
             <td>
                 <ul>
-                    <li>Choquechambi</li>
-                    <li>Frank</li>
+                    <li>Choquechambi Quispe Germain Ronald</li>
+                    <li>Hinojosa Zamora Frank Oliver</li>
                     <li>Trujillo Armas Andrei Steven</li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li>Investigar acerca del juego de las damas americanas</li>
-                    <li>Definir las tecnologias y metodologias que utiliza para el proyecto</li>
+                    <li>Establecer las reuniones futuras</li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li>Definir roles y responsabilidades</li>
-                    <li>Establer un sistema de comunicacion</li>
+                    <li>Crear el repositorio</li>
+                    <li>Revisar tutoriales del juego</li>
                 </ul>
             </td>
         </tr>
         <tr>
-            <td>25/03/2024</td>
-            <td>15 min</td>
+            <td>30/03/2024</td>
+            <td>2 horas</td>
             <td>Reunion virtual por Discord</td>
             <td>
                 <ul>
-                    <li>Choquechambi</li>
-                    <li>Frank</li>
+                    <li>Choquechambi Quispe Germain Ronald</li>
+                    <li>Hinojosa Zamora Frank Oliver</li>
                     <li>Trujillo Armas Andrei Steven</li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li>Determinar los requerimientos y especificaciones</li>
+                    <li>Determinar los requisitos y especificaciones</li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li>Modificar el estado actual</li>
-                    <li>Utilizar la técnica GWT para definir las especificaciones y requerimientos del software</li>
+                    <li> Definir los criterios que se utilizarán para priorizar los requisitoss, como la importancia, la urgencia y el impacto en el proyecto</li>
+                    <li> Especificar el proceso que se utilizará para aprobar los requerimientos </li>
                 </ul>
             </td>
         </tr>
         <tr>
-            <td>26/03/2024</td>
-            <td>15 min</td>
-            <td>Reunion presencial en la Facultad de Ciencias</td>
-            <td>
-                <ul>
-                    <li>Choquechambi</li>
-                    <li>Frank</li>
-                    <li>Trujillo Armas Andrei Steven</li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li>Determina el flujo de ejecución que tendrá el software</li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li>Designar las tareas para realizar el flujo de ejecución del software</li>
-                    <li>Crear un mirror compartido</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>06/04/2024</td>
-            <td>3 horas</td>
+            <td>02/04/2024</td>
+            <td>2 horas</td>
             <td>Reunion virtual por Discord</td>
             <td>
                 <ul>
-                    <li>Choquechambi</li>
-                    <li>Frank</li>
+                    <li>Choquechambi Quispe Germain Ronald</li>
+                    <li>Hinojosa Zamora Frank Oliver</li>
                     <li>Trujillo Armas Andrei Steven</li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li>Definir la arquitectura del software</li>
-                    <li>Terminar el flujo de ejecución del software</li>
-                    <li>Implementar las historias de usuario con los criterios de aceptacion</li>
+                    <li>Comenzar con la documentacion y el codigo</li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li>Utilizar los requerimientos y especificaciones</li>
-                    <li>Comparar diversos tipos de arquitecturas</li>
-                    <li>Establecer la arquitectura a usar de cliente-servidor de 3 capas</li>
+                    <li>Enumerar las tareas que se deben realizar para comenzar con la documentación y el código, como la creación de un esquema de documentación, la definición de la arquitectura del software o la implementación de las funcionalidades básicas</li>
+                    <li>Establecer plazos para cada una de las tareas</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>05/04/2024</td>
+            <td>2 horas</td>
+            <td>Reunion virtual por Discord</td>
+            <td>
+                <ul>
+                    <li>Choquechambi Quispe Germain Ronald</li>
+                    <li>Hinojosa Zamora Frank Oliver</li>
+                    <li>Trujillo Armas Andrei Steven</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Revisar y corregir el Sprint #1</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Revisar estado actual deL Sprint #1 </li>
+                    <li>Plantillas de historias de usuarios</li>
                 </ul>
             </td>
         </tr>
