@@ -97,12 +97,17 @@
         <tr>
             <td rowspan="4" "text-align: center;">2. Iniciar Sesion </td>
             <td>2.1</td>
-            <td>inicia sesion validando nombre de usuario</td>
+            <td>Inicio de Sesion exitoso validando correctamente su nombre de usuario y contraseña</td>
             <td>Por hacer</td>
         </tr>
         <tr>
             <td>2.2</td>
-            <td>incia sesion pero carga</td>
+            <td>Inicio de Sesion fallido no se encontro un usuario con ese nombre </td>
+            <td>Por hacer</td>
+        </tr>
+        <tr>
+            <td>2.3</td>
+            <td>Inicio de Sesion fallido la contraseña no es correcta</td>
             <td>Por hacer</td>
         </tr>
     </table>
@@ -245,5 +250,4 @@
             <td style="text-align: center;"> </td>
             <td style="text-align: center;"> </td>
         </tr>   
-    </table>   
-
+    </table>
