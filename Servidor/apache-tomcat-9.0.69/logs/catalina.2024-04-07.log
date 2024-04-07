@@ -225,3 +225,53 @@
 07-Apr-2024 12:08:14.450 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
 07-Apr-2024 12:08:14.475 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
 07-Apr-2024 12:08:14.484 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+07-Apr-2024 12:20:31.067 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.69
+07-Apr-2024 12:20:31.070 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 9 2022 18:43:47 UTC
+07-Apr-2024 12:20:31.070 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.69.0
+07-Apr-2024 12:20:31.070 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+07-Apr-2024 12:20:31.070 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1.0-1parrot1-amd64
+07-Apr-2024 12:20:31.070 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-Apr-2024 12:20:31.070 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/apache-netbeans/jdk
+07-Apr-2024 12:20:31.070 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS
+07-Apr-2024 12:20:31.070 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Azul Systems, Inc.
+07-Apr-2024 12:20:31.070 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69
+07-Apr-2024 12:20:31.071 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69
+07-Apr-2024 12:20:31.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+07-Apr-2024 12:20:31.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+07-Apr-2024 12:20:31.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+07-Apr-2024 12:20:31.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+07-Apr-2024 12:20:31.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+07-Apr-2024 12:20:31.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69/conf/logging.properties
+07-Apr-2024 12:20:31.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-Apr-2024 12:20:31.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|parrot
+07-Apr-2024 12:20:31.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-Apr-2024 12:20:31.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-Apr-2024 12:20:31.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+07-Apr-2024 12:20:31.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+07-Apr-2024 12:20:31.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69
+07-Apr-2024 12:20:31.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69
+07-Apr-2024 12:20:31.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69/temp
+07-Apr-2024 12:20:31.080 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+07-Apr-2024 12:20:31.344 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-Apr-2024 12:20:31.362 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [431] milliseconds
+07-Apr-2024 12:20:31.395 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-Apr-2024 12:20:31.395 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.69]
+07-Apr-2024 12:20:31.401 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69/conf/Catalina/localhost/block.xml]
+07-Apr-2024 12:20:31.411 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/block] in deployment descriptor [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69/conf/Catalina/localhost/block.xml] has been ignored
+07-Apr-2024 12:20:31.627 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69/conf/Catalina/localhost/block.xml] has finished in [226] ms
+07-Apr-2024 12:20:31.628 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69/webapps/ROOT]
+07-Apr-2024 12:20:31.644 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69/webapps/ROOT] has finished in [16] ms
+07-Apr-2024 12:20:31.644 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69/webapps/docs]
+07-Apr-2024 12:20:31.661 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69/webapps/docs] has finished in [17] ms
+07-Apr-2024 12:20:31.661 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69/webapps/examples]
+07-Apr-2024 12:20:31.824 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69/webapps/examples] has finished in [163] ms
+07-Apr-2024 12:20:31.824 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69/webapps/host-manager]
+07-Apr-2024 12:20:31.844 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69/webapps/host-manager] has finished in [20] ms
+07-Apr-2024 12:20:31.844 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69/webapps/manager]
+07-Apr-2024 12:20:31.860 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69/webapps/manager] has finished in [16] ms
+07-Apr-2024 12:20:31.863 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-Apr-2024 12:20:31.872 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [508] milliseconds
+07-Apr-2024 12:20:31.954 INFO [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69/conf/Catalina/localhost/DamasAmericanas.xml]
+07-Apr-2024 12:20:31.954 WARNING [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/DamasAmericanas] in deployment descriptor [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69/conf/Catalina/localhost/DamasAmericanas.xml] has been ignored
+07-Apr-2024 12:20:31.975 INFO [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/home/andrews/Documents/SEPTIMO_CICLO/DESARROLLO DE SOFTWARE/GRUPO-9/Servidor/apache-tomcat-9.0.69/conf/Catalina/localhost/DamasAmericanas.xml] has finished in [22] ms
+07-Apr-2024 12:20:31.981 INFO [http-nio-8080-exec-4] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/DamasAmericanas]] after start() had already been called. The second call will be ignored.
