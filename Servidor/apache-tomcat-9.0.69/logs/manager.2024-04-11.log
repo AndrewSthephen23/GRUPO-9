@@ -1,0 +1,5 @@
+11-Apr-2024 20:21:11.337 INFO [http-nio-8080-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Apr-2024 20:21:11.343 INFO [http-nio-8080-exec-16] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Apr-2024 20:21:11.355 INFO [http-nio-8080-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/DamasAmericanas'
+11-Apr-2024 20:21:11.929 INFO [http-nio-8080-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/andrew/AppData/Local/Temp/context9514432650425472765.xml'
+11-Apr-2024 20:21:12.032 INFO [http-nio-8080-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/DamasAmericanas'
