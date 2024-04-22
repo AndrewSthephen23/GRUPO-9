@@ -54,4 +54,5 @@ public class FootballTeam implements Comparable<FootballTeam> {
     public int compareTo(FootballTeam otherTeam){
         return 0;
     }
+
 }
